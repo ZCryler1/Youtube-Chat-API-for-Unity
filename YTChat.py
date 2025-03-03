@@ -2,7 +2,7 @@ import socket
 import json
 from chat_downloader import ChatDownloader
 
-YOUTUBE_LIVE_URL = "https://youtube.com/live/JeY-S51vvis"
+YOUTUBE_LIVE_URL = "https://youtube.com/live/URL_DA_LIVE"
 
 # Configura o servidor para escutar na porta 5001
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
